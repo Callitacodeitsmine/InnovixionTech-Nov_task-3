@@ -1,0 +1,79 @@
+body{
+    background-color: #3c096c;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#selected-products{
+    margin: 2em;
+}
+
+
+#payment-form{
+    display: flex;
+    flex-direction: column;
+    margin: 2em;
+}
+
+#payment-form input{
+    margin: 0.5em;
+    padding: 0.5em;
+    border-radius: 5px;
+    border: none;
+}
+
+#payment-form button{
+    background: #9d4edd;
+    color: #240046;
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 40px;
+    font-size: large;
+    margin: 0.5em;
+}
+
+#payment-form h1{
+    color: #9d4edd;
+    margin: 0.5em;
+}
+
+#payment-form h2{
+    color: #240046;
+    margin: 0.5em;
+}
+
+#payment-form h3{
+    color: #9d4edd;
+    margin: 0.5em;
+}
+
+#payment-form button:hover {
+    background: #7b2cbf;
+}
+
+#payment-form label{
+    margin: 0.5em;
+    color: #9d4edd;
+}
+
+body h1{
+    color: #9d4edd;
+    margin: 0.5em;
+    text-align: center;
+}
+
+body p{
+    color: #9d4edd;
+    text-align: center;
+}
+#payment-form button:hover {
+    background: #7b2cbf;
+}
+
+#payment-form label{
+    margin: 0.5em;
+    color: #9d4edd;
+}

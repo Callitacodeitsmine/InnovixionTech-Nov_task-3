@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Smartphone",
+        "description": "A handheld mobile device with computing capabilities",
+        "price": 500,
+        "image": "images/1.png"
+    },
+    {
+        "name": "Laptop",
+        "description": "Portable computer device",
+        "price": 500,
+        "image": "images/2.png"        
+    },
+    {
+        "name": "Tablet",
+        "description": "Audio playback device",
+        "price": 500,
+        "image": "images/3.png"
+    },
+    {
+        "name": "Speaker",
+        "description": "Description for Product 3",
+        "price": 500,
+        "image": "images/4.png"
+    },
+    {
+        "name": "Router",
+        "description": "Network connection device",
+        "price": 500,
+        "image": "images/5.png"
+    },
+    {
+        "name": "Smart bulb",
+        "description": "App-controlled lighting",
+        "price": 500,
+        "image": "images/6.png"
+    },
+    {
+        "name": "Power bank",
+        "description": "Portable device charger",
+        "price": 500,
+        "image": "images/7.png"
+    },
+    {
+        "name": "Fitness band",
+        "description": "Activity tracking wearable",
+        "price": 500,
+        "image": "images/8.png"
+    },
+    {
+        "name": "VR headset",
+        "description": "Virtual reality viewer",
+        "price": 500,
+        "image": "images/9.png"
+    },
+    {
+        "name": "Camera",
+        "description": "Compact action camera",
+        "price": 500,
+        "image": "images/10.png"
+    }
+]
